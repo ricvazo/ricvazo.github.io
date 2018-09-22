@@ -1,2 +1,2 @@
 # ricvazo.github.io
-Personal repository
+Personal page
